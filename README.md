@@ -119,7 +119,7 @@ This project was recreated for educational purposes to strengthen my Tableau and
 
 Aspiring Data Analyst
 
-- GitHub: https://github.com/your-github-username
+- GitHub: https://github.com/Narendra8731
 - LinkedIn: https://www.linkedin.com/in/narendra-koppala/
 
 ---
