@@ -93,13 +93,13 @@ The dashboard provides business insights through interactive visualizations, hel
 ---
 
 
-## 📷 Dashboard Preview
+## 📷 Sales Dashboard Preview
 
 https://github.com/Narendra8731/Sales-Dashboard-using-Tableau/blob/main/Sales_dashboard.png
 
 
 ### Customer Dashboard
-
+https://github.com/Narendra8731/Sales-Dashboard-using-Tableau/blob/main/Customer_dashboard.png
 
 ---
 
